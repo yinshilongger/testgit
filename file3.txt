@@ -2,3 +2,6 @@ hello
 word
 my
 friends
+
+
+本地工作区修改file3.txt,远程仓库的最新提交修改了file2.txt，观察是否可以直接git pull合并而不报错？
