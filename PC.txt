@@ -1,1 +1,2 @@
 PC create file
+新建不冲突的记录，可以自动merge成功吧？
