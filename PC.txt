@@ -1,2 +1,6 @@
 PC create file
+<<<<<<< Updated upstream
 新建不冲突的记录，可以自动merge成功吧？
+=======
+本地无冲突工作区修改，待git pull合并。
+>>>>>>> Stashed changes
